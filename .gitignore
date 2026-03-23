@@ -1,0 +1,24 @@
+# Tauri
+src-tauri/target
+src-tauri/gen
+
+# Node
+node_modules/
+dist/
+build/
+
+# Docker
+.env
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docs
+docs/.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
